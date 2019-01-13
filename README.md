@@ -12,3 +12,7 @@ for integration in \AC-Game\data\static_data\spawns\(Npcs or gather)\New\locatio
 4. copy coordinates from "colour".txt and put it in \AC-Game\data\static_data\spawns\(Npcs or gather)\New\location.xml file.
 
 Result see Example_colourpix2box.jpg
+
+and Youtube
+
+https://youtu.be/7Y24vIwrLIQ
